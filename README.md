@@ -1,5 +1,7 @@
 # Hi! I am Natália Faraj Murad! Welcome to my profile!
 
+![ ](logobanner.png)
+
 ##  :panda_face: About me
 
 * :woman_technologist: Bioinformatician, Data Scientist, Researcher.
