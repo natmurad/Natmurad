@@ -49,7 +49,7 @@
 
 ## :bulb: My Projects
 
-* [Fraud Detection](https://github.com/natmurad/TalkingDataAdtrackingFraudDetection)
+* [Fraud Detection with XGBoost & LightGBM](https://github.com/natmurad/TalkingDataAdtrackingFraudDetection)
 
 * [Sentiment Analysis](https://github.com/natmurad/SentimentAnalysisTwitter)
 
