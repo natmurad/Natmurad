@@ -9,7 +9,7 @@
 * :woman_teacher: MSc & PhD in Genetics & Molecular Biology - UNICAMP.
 * :mag: Fascinated by genetics, probability and how the universe works by patterns.
 
-## :toolbox: Techs
+## :robot: Techs
 
 ![SQL](https://img.shields.io/badge/-SQL-DC143C?style=flat-square&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-32CD32?style=flat-square&logo=python&logoColor=white)
