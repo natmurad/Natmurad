@@ -51,9 +51,9 @@
 
 * [Fraud Detection with XGBoost & LightGBM](https://github.com/natmurad/TalkingDataAdtrackingFraudDetection)
 
-* [Sentiment Analysis](https://github.com/natmurad/SentimentAnalysisTwitter)
+* [Twitter Sentiment Analysis using R](https://github.com/natmurad/SentimentAnalysisTwitter)
 
-* [Data Visualization](https://github.com/natmurad/MappingCovidDeaths)
+* [Covid Data ETL, Exploration](https://github.com/natmurad/MappingCovidDeaths)
 
 [![Natália Faraj Murad's Github Stats](https://github-readme-stats.vercel.app/api?username=natmurad)](https://github.com/natmurad/github-readme-stats)
 
