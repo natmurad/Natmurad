@@ -16,13 +16,17 @@
 ![R](https://img.shields.io/badge/-R-0000FF?style=flat-square&logo=r&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-PowerBI-FFD700?style=flat-square&logo=microsoft&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-B0C4DE?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FF69B4?style=flat-square&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-00BFFF?style=flat-square&logo=docker&logoColor=white)
 
 ![Google Data Studio](https://img.shields.io/badge/-GoogleDataStudio-1E90FF?style=flat-square&logo=google&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?&style=flat-square&logo=amazon-aws&logoColor=white)
 ![Spark](https://img.shields.io/badge/-Spark-FF4500?style=flat-square&logo=apachespark&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-000080?style=flat-square&logo=microsoft&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/MicrosoftAzure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-23316192?&style=flat-square&logo=postgresql&logoColor=white)
 ![Galaxy](https://img.shields.io/badge/-Galaxy-F05032?style=flat-square&logo=galaxy&logoColor=white)
 ![Bioconductor](https://img.shields.io/badge/-Bioconductor-7B68EE?style=flat-square&logo=data:https://raw.githubusercontent.com/Bioconductor/bioconductor.org/master/assets/images/logo/jpg/bioconductor_note.jpg&logoColor=white)
 
