@@ -61,7 +61,7 @@
 
 * [Sales Dashboard with Market Basket Analysis in PowerBI using Dunnhumby Dataset](https://app.powerbi.com/groups/me/reports/0040457c-a9fb-469f-8a2f-bd8cf0a9a801?ctid=ede17caf-384e-47f1-8c4e-461181a9e945&pbi_source=linkShare) - [Repository - Details](https://github.com/natmurad/marketbasketDashboard) 
 
-* [Covid Data ETL, Exploration](https://github.com/natmurad/MappingCovidDeaths)
+* [Covid Data ETL, Exploration, ARIMA & prophet projections](https://github.com/natmurad/MappingCovidDeaths)
 
 [![Natália Faraj Murad's Github Stats](https://github-readme-stats.vercel.app/api?username=natmurad)](https://github.com/natmurad/github-readme-stats)
 
