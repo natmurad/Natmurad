@@ -55,6 +55,8 @@
 
 * [TalkingData AdClick Fraud Detection with XGBoost & LightGBM](https://github.com/natmurad/TalkingDataAdtrackingFraudDetection)
 
+* [Telecom Customer Churn Analysis](https://github.com/natmurad/telecomchurn)
+
 * [Hepatocellular Carcinoma Dataset (HCC dataset) Survival Prediction with Logistic Regression](https://github.com/natmurad/cancersurvivalprediction)
 
 * [Twitter Sentiment Analysis using R](https://github.com/natmurad/SentimentAnalysisTwitter)
