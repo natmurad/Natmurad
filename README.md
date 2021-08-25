@@ -11,10 +11,10 @@
 
 ## :robot: Techs
 
-![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r)
+![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r&logoColor=darkblue)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![pandas](https://img.shields.io/badge/-pandas-black?style=flat-square&logo=Pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=Numpy)
+![pandas](https://img.shields.io/badge/-pandas-black?style=flat-square&logo=Pandas&logoColor=gray)
+![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=Numpy&logoColor=gray)
 ![Scikit Learn](https://img.shields.io/badge/-scikitLearn-black?style=flat-square&logo=scikit-learn)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
@@ -22,13 +22,13 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Power BI](https://img.shields.io/badge/-PowerBI-black?style=flat-square&logo=microsoft)
+![Power BI](https://img.shields.io/badge/-PowerBI-black?style=flat-square&logo=microsoft&logoColor=yellow)
 
 ![Google Data Studio](https://img.shields.io/badge/-GoogleDataStudio-black?style=flat-square&logo=google)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-black?style=flat-square&logo=google-cloud)
-![AWS](https://img.shields.io/badge/AWS-black?&style=flat-square&logo=amazon-aws)
+![AWS](https://img.shields.io/badge/AWS-black?&style=flat-square&logo=amazon-aws&logoColor=yellow)
 ![Spark](https://img.shields.io/badge/-Spark-black?style=flat-square&logo=apachespark)
-![Microsoft Azure](https://img.shields.io/badge/MicrosoftAzure-black?style=flat-square&logo=microsoft-azure)
+![Microsoft Azure](https://img.shields.io/badge/MicrosoftAzure-black?style=flat-square&logo=microsoft-azure&logoColor=blue)
 ![Postgres](https://img.shields.io/badge/postgres-black?&style=flat-square&logo=postgresql)
 ![Galaxy](https://img.shields.io/badge/-Galaxy-black?style=flat-square&logo=galaxy)
 ![Bioconductor](https://img.shields.io/badge/-Bioconductor-black?style=flat-square&logo=data:https://raw.githubusercontent.com/Bioconductor/bioconductor.org/master/assets/images/logo/jpg/bioconductor_note.jpg)
