@@ -2,7 +2,7 @@
 
 ![ ](logobanner.png)
 
-##  :panda_face: About me
+##  :woman_scientist: About me
 
 * :woman_technologist: Bioinformatician, Data Scientist, Researcher.
 * :woman_student: Bachelor of Biological Sciences - UFLA.
@@ -11,24 +11,27 @@
 
 ## :robot: Techs
 
-![SQL](https://img.shields.io/badge/-SQL-DC143C?style=flat-square&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-32CD32?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-0000FF?style=flat-square&logo=r&logoColor=white)
-![Power BI](https://img.shields.io/badge/-PowerBI-FFD700?style=flat-square&logo=microsoft&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-B0C4DE?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FF69B4?style=flat-square&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-00BFFF?style=flat-square&logo=docker&logoColor=white)
+![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![pandas](https://img.shields.io/badge/-pandas-black?style=flat-square&logo=Pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=Numpy)
+![Scikit Learn](https://img.shields.io/badge/-scikitLearn-black?style=flat-square&logo=scikit-learn)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
+![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Power BI](https://img.shields.io/badge/-PowerBI-black?style=flat-square&logo=microsoft)
 
-![Google Data Studio](https://img.shields.io/badge/-GoogleDataStudio-1E90FF?style=flat-square&logo=google&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?&style=flat-square&logo=amazon-aws&logoColor=white)
-![Spark](https://img.shields.io/badge/-Spark-FF4500?style=flat-square&logo=apachespark&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/MicrosoftAzure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-23316192?&style=flat-square&logo=postgresql&logoColor=white)
-![Galaxy](https://img.shields.io/badge/-Galaxy-F05032?style=flat-square&logo=galaxy&logoColor=white)
-![Bioconductor](https://img.shields.io/badge/-Bioconductor-7B68EE?style=flat-square&logo=data:https://raw.githubusercontent.com/Bioconductor/bioconductor.org/master/assets/images/logo/jpg/bioconductor_note.jpg&logoColor=white)
+![Google Data Studio](https://img.shields.io/badge/-GoogleDataStudio-black?style=flat-square&logo=google)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-black?style=flat-square&logo=google-cloud)
+![AWS](https://img.shields.io/badge/AWS-black?&style=flat-square&logo=amazon-aws)
+![Spark](https://img.shields.io/badge/-Spark-black?style=flat-square&logo=apachespark)
+![Microsoft Azure](https://img.shields.io/badge/MicrosoftAzure-black?style=flat-square&logo=microsoft-azure)
+![Postgres](https://img.shields.io/badge/postgres-black?&style=flat-square&logo=postgresql)
+![Galaxy](https://img.shields.io/badge/-Galaxy-black?style=flat-square&logo=galaxy)
+![Bioconductor](https://img.shields.io/badge/-Bioconductor-black?style=flat-square&logo=data:https://raw.githubusercontent.com/Bioconductor/bioconductor.org/master/assets/images/logo/jpg/bioconductor_note.jpg)
 
 
 ## :toolbox: Skills
@@ -65,6 +68,8 @@
 
 * [Covid Data ETL, Exploration, ARIMA & prophet projections](https://github.com/natmurad/MappingCovidDeaths)
 
-[![Natália Faraj Murad's Github Stats](https://github-readme-stats.vercel.app/api?username=natmurad)](https://github.com/natmurad/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natmurad)](https://github.com/natmurad/github-readme-stats)
+
+[![Natália Faraj Murad's Github Stats](https://github-readme-stats.vercel.app/api?username=natmurad&show_icons=true)](https://github.com/natmurad)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natmurad&show_icons=true)](https://github.com/natmurad/github-readme-stats)
