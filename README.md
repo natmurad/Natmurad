@@ -12,6 +12,7 @@
 ## :robot: Techs
 
 ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r&logoColor=darkblue)
+![Bioconductor](https://img.shields.io/badge/-Bioconductor-black?style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![pandas](https://img.shields.io/badge/-pandas-black?style=flat-square&logo=Pandas&logoColor=gray)
 ![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=Numpy&logoColor=gray)
@@ -30,8 +31,9 @@
 ![Spark](https://img.shields.io/badge/-Spark-black?style=flat-square&logo=apachespark)
 ![Microsoft Azure](https://img.shields.io/badge/MicrosoftAzure-black?style=flat-square&logo=microsoft-azure&logoColor=blue)
 ![Postgres](https://img.shields.io/badge/postgres-black?&style=flat-square&logo=postgresql)
-![Galaxy](https://img.shields.io/badge/-Galaxy-black?style=flat-square&logo=galaxy)
-![Bioconductor](https://img.shields.io/badge/-Bioconductor-black?style=flat-square&logo=data:https://raw.githubusercontent.com/Bioconductor/bioconductor.org/master/assets/images/logo/jpg/bioconductor_note.jpg)
+![Snakemake](https://img.shields.io/badge/snakemake-black?style=flat-square)
+![Cytoscape](https://img.shields.io/badge/-Cytoscape.js-black?style=flat-square&logo=Cytoscape.js)
+
 
 
 ## :toolbox: Skills
