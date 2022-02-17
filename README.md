@@ -24,7 +24,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
-
 ![Power BI](https://img.shields.io/badge/-PowerBI-black?style=flat-square&logo=microsoft&logoColor=yellow)
 ![Google Data Studio](https://img.shields.io/badge/-GoogleDataStudio-black?style=flat-square&logo=google)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-black?style=flat-square&logo=google-cloud)
