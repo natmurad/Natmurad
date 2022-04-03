@@ -2,10 +2,17 @@
 
 ![ ](logobanner.png)
 
+
+
+> 🦜 **"Falar, até papagaio fala"**
+
+
+
+
 ##  :woman_scientist: About me
 
 * :woman_technologist: Bioinformatician, Data Scientist, Researcher.
-* :woman_student: Bachelor of Biological Sciences - UFLA.
+* :woman_student: Bachelor of Biological Sciences - UFLA. *In Progress:* Bachelor of Computer Science - Estácio.
 * :woman_teacher: MSc & PhD in Genetics & Molecular Biology - UNICAMP.
 * :mag: Fascinated by genetics, probability and how the universe works by patterns.
 
