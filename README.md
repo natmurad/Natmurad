@@ -3,12 +3,6 @@
 ![ ](logobanner.png)
 
 
-
-> 🦜 **"Falar, até papagaio fala"**
-
-
-
-
 ##  :woman_scientist: About me
 
 * :woman_technologist: Bioinformatician, Data Scientist, Researcher.
