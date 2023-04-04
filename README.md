@@ -36,13 +36,6 @@
 ![Cytoscape](https://img.shields.io/badge/-Cytoscape.js-black?style=flat-square&logo=Cytoscape.js)
 
 
-
-## :toolbox: Skills
-
-* :computer::dna: Bioinformatics & Computational Biology
-* :dna: Next Generation Sequence Data Analysis, Gene Regulatory Networks
-* :file_folder: Data Management, Statistical Analysis, Machine Learning
-
 ## :mailbox: Get in Touch
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/natmurad)](https://github.com/natmurad)
@@ -55,24 +48,6 @@
 * [**Lattes**](http://lattes.cnpq.br/4675049911569295)
 * [**ORCID**](https://orcid.org/0000-0001-7652-2567)
 * [**Rpubs**](https://www.rpubs.com/natmurad)
-
-
-## :bulb: My Projects
-
-* [TalkingData AdClick Fraud Detection with XGBoost & LightGBM](https://github.com/natmurad/TalkingDataAdtrackingFraudDetection)
-
-* [Telecom Customer Churn Analysis](https://github.com/natmurad/telecomchurn)
-
-* [Time Series Forecasting with ARIMA, SARIMA & Prophet - Bitcoin Prices](https://github.com/natmurad/criptocurrencypred)
-
-* [Hepatocellular Carcinoma Dataset (HCC dataset) Survival Prediction with Logistic Regression](https://github.com/natmurad/cancersurvivalprediction)
-
-* [Twitter Sentiment Analysis using R](https://github.com/natmurad/SentimentAnalysisTwitter)
-
-* [Sales Dashboard with Market Basket Analysis in PowerBI using Dunnhumby Dataset](https://app.powerbi.com/groups/me/reports/0040457c-a9fb-469f-8a2f-bd8cf0a9a801?ctid=ede17caf-384e-47f1-8c4e-461181a9e945&pbi_source=linkShare) - [Repository - Details](https://github.com/natmurad/marketbasketDashboard) 
-
-* [Covid Data ETL, Exploration, ARIMA & Prophet projections](https://github.com/natmurad/MappingCovidDeaths)
-
 
 
 [![Natália Faraj Murad's Github Stats](https://github-readme-stats.vercel.app/api?username=natmurad&show_icons=true)](https://github.com/natmurad)
