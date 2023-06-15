@@ -49,7 +49,4 @@
 * [**ORCID**](https://orcid.org/0000-0001-7652-2567)
 * [**Rpubs**](https://www.rpubs.com/natmurad)
 
-
-[![Natália Faraj Murad's Github Stats](https://github-readme-stats.vercel.app/api?username=natmurad&show_icons=true)](https://github.com/natmurad)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natmurad&show_icons=true)](https://github.com/natmurad/github-readme-stats)
