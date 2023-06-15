@@ -48,5 +48,3 @@
 * [**Lattes**](http://lattes.cnpq.br/4675049911569295)
 * [**ORCID**](https://orcid.org/0000-0001-7652-2567)
 * [**Rpubs**](https://www.rpubs.com/natmurad)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natmurad&show_icons=true)](https://github.com/natmurad/github-readme-stats)
